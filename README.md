@@ -45,4 +45,3 @@ async function connectTalisman() {
 ## Example
 
 See `talisman-wallet-app/src/App.tsx` for a complete React implementation example.
-# Connect-Talisman-Wallet-Example
